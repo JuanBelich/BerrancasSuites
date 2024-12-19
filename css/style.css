@@ -2192,9 +2192,10 @@ blockquote p:after {
 
 /* P "EL COMPLEJO" */
 .accomd-modations-header{
+    background-color: rgba(34,34,34,0.60);;
     margin-top: 30px;
     text-align: center;
-    backdrop-filter:blur(5px);
+    /* backdrop-filter:blur(140px); */
     font-weight: bold;
     color: #e1bd85;
 }
