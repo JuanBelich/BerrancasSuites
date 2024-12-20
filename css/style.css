@@ -3119,6 +3119,16 @@ blockquote p:after {
     margin-top: 20px;
 }
 
+#img-size{
+    width: 280px;
+    height: 158px;
+    justify-content: center;
+}
+#img-size2{
+    width: 280px;
+    height: 340px;
+    
+}
 .gallery-content .gallery_item {
     position: relative;
     overflow: hidden;
